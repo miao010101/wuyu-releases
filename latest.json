@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "apk": "https://cdn.jsdelivr.net/gh/miao010101/wuyu-releases@main/wuyu-1.1.0.apk",
+  "page": "https://github.com/miao010101/wuyu-releases/releases/latest",
+  "notes": "应用内一键更新；正式签名，覆盖升级不丢数据"
+}
